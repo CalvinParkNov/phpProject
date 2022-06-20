@@ -1,0 +1,664 @@
+CRITICAL - 2022-06-18 15:55:18 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 15:55:27 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 15:55:29 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:00:35 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:00:35 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:02:04 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:02:05 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:02:31 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:02:32 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:03:09 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:03:10 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:03:10 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:03:10 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:03:10 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:03:10 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:03:31 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:03:32 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:03:32 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:03:32 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:04:55 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:05:01 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:05:24 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:05:25 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:05:27 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:05:29 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:05:46 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:05:46 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:05:47 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:05:47 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:05:47 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:06:06 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:07:16 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:09:03 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:09:04 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:09:04 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:09:04 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:09:05 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:54 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:56 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:56 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:57 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:57 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:57 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:57 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:57 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:58 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:58 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:58 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:58 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:58 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:58 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:59 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:59 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:59 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:59 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:14:59 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:15:00 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:15:00 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:15:00 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:15:00 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:15:00 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:16:24 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:16:25 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:16:43 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:16:44 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:16:44 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:16:44 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:16:44 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:18:33 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:18:34 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:18:34 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:18:34 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:18:34 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:18:35 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:18:35 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:18:35 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:18:35 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:18:35 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:18:35 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:18:36 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:19:08 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:22:24 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:22:25 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:23:25 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:23:26 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:23:26 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:23:26 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:23:26 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:23:26 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:24:40 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:24:41 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:24:50 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:24:50 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:24:51 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:24:51 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:24:54 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:24:54 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:24:55 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:24:55 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:24:55 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:24:55 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:26:08 --> The framework needs the following extension(s) installed and loaded: curl, mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:26:22 --> The framework needs the following extension(s) installed and loaded: mbstring, xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 16:26:37 --> The framework needs the following extension(s) installed and loaded: xml.
+#0 /var/www/html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /var/www/html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /var/www/html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /var/www/html/public/index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-06-18 11:35:30 --> Call to undefined method App\Controllers\Index::initController()
+#0 /var/www/html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#1 /var/www/html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-06-18 11:35:47 --> Call to undefined method App\Controllers\Index::initController()
+#0 /var/www/html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#1 /var/www/html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-06-18 11:35:48 --> Call to undefined method App\Controllers\Index::initController()
+#0 /var/www/html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#1 /var/www/html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-06-18 11:36:19 --> Call to undefined method App\Controllers\Index::initController()
+#0 /var/www/html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#1 /var/www/html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-06-18 11:36:51 --> Call to undefined method App\Controllers\Index::initController()
+#0 /var/www/html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#1 /var/www/html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-06-18 11:36:52 --> Call to undefined method App\Controllers\Index::initController()
+#0 /var/www/html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#1 /var/www/html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-06-18 11:37:06 --> Call to undefined method App\Controllers\Index::initController()
+#0 /var/www/html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#1 /var/www/html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-06-18 11:37:11 --> Call to undefined method App\Controllers\Index::initController()
+#0 /var/www/html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#1 /var/www/html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
